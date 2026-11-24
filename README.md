@@ -1,8 +1,8 @@
 # One-Star Review of Something Essential
 
-[![make.fun](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-growth-orange)](https://make.fun)
+[![One-Star Review of Something Essential](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![Rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Flowjack94/u-0xb3e689-one-star-review-of-something-essential-c7234629/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![Reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Flowjack94/u-0xb3e689-one-star-review-of-something-essential-c7234629/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
 A deadpan one-star review of an everyday essential — gravity — written for the
 [make.fun](https://make.fun) competition "One-Star Review of Something Essential"
